@@ -1,7 +1,5 @@
 # AkvelonTest
-REST API
-Technology stack: Java 11,Spring Boot,Spring DATA JPA,MySQL,Spring Web 
-All dependencies can be viewed in the Maven builder(pom.xml)
+Technology stack: Java 11,Spring Boot,Spring DATA JPA,MySQL,Spring Web All dependencies can be viewed in the Maven builder(pom.xml)
 
 Description of the completed task: Web API for entering data into the database.
 
